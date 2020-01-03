@@ -7,4 +7,4 @@
 	* [视图](zhi-wei-bang-zhu-wen-dang/basic/视图.md) 
 	* [视图模板](zhi-wei-bang-zhu-wen-dang/basic/视图模板.md) 
 * [Untitled](zhi-wei-bang-zhu-wen-dang/untitled-1.md) 
-* [Changelog](changelog/README.md) 
+* [Changelog](changelog/README.adoc) 
